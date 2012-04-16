@@ -1,4 +1,4 @@
-Dépôt de source pour joueur pour le challenge Devoxx Lego Mindstorm
+Source Challenge Devoxx Xebia Lego Mindstorm
 ===========================
 
 
